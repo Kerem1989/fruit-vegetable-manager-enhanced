@@ -1,2 +1,5 @@
-# fruit-vegetable-manager-enhanced
-This Java console app extends a grocery inventory system, building on 'fruit-vegetable-manager.' With user authentication, login, and product management, it's a school lab project. Features enhanced catalog, search, and a basket for easy shopping and purchase.
+This Java console application represents a significant evolution from the original 'fruit-vegetable-manager.' Primarily designed for educational purposes as part of a school lab assignment, it introduces robust features, including user authentication, login mechanisms, and account creation. 
+
+The system empowers users with comprehensive inventory management capabilities, allowing them to seamlessly add, search, browse, and remove products. Leveraging advanced Java concepts and object-oriented principles, it features distinct classes such as 'Product' and 'DiscountedProduct.' 
+
+The enhanced product catalog offers sophisticated search functionalities, complemented by a user-friendly shopping basket for efficient price calculations and streamlined purchase transactions.
